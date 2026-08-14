@@ -15,7 +15,8 @@ const productSchema = new mongoose.Schema({
             'Muscle Relaxants',
             'ADHD & Stimulants',
             'Nerve Pain Medication',
-            'Combination Pain Relief'
+            'Combination Pain Relief',
+            'Carts'
         ]
     },
     description: {
